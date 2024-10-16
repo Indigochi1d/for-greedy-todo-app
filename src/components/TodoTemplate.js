@@ -1,6 +1,6 @@
 import React from 'react';
 import './css/TodoTemplate.scss';
-import GreedyLogo from "../greedy_logo.jpeg"
+import GreedyLogo from "../greedySquareImage.jpg"
 const TodoTemplate = ( {children} ) => {
     return (
         <div className='TodoTemplate'>
